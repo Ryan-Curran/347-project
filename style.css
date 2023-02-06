@@ -1,0 +1,35 @@
+header {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav a {
+  display: block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  display: none;
+  padding: 20px;
+}
+
+#home, #employees, #animals {
+  display: block;
+}
